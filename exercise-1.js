@@ -1,0 +1,1 @@
+let yourArray = ["cat", "dog", false, 290, "elephant"]; // Change this line
